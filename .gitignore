@@ -1,0 +1,17 @@
+.idea/libraries/*
+.idea
+**/target
+*.iml
+*/*.iml
+*.DS_Store
+
+.project
+.settings
+*/.classpath
+*/.project
+*/.settings
+*/.factorypath
+
+*.log
+*.gz
+logs/
