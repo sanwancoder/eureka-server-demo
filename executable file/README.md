@@ -1,3 +1,3 @@
 - default-port: 8761
 - use ***java -jar eureka-server.jar*** to start it
-- if u want to use another port, u can -server.port=your port ,for examples:  ***java  -jar .\eureka-server.jar --server.port=12001*** 
+- if u want to use another port, u can set --server.port=your port ,for examples:  ***java  -jar .\eureka-server.jar --server.port=12001*** 
